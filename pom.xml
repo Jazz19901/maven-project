@@ -24,7 +24,7 @@
   <distributionManagement>
     <site>
       <id>site-server</id>
-      <name>Test Project Site 1</name>
+      <name>Test Project Site 2</name>
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
